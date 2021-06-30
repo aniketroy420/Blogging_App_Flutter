@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916326149720",
+    "project_id": "blog-app-using-flutter",
+    "storage_bucket": "blog-app-using-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916326149720:android:b8f6cffc552b77e033642d",
+        "android_client_info": {
+          "package_name": "com.relaxbhau.blog_horha_h_kya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916326149720-a86ie45icvv4nka46jqmkre3ecmtepmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGrXoNp0FX7PEGnAWBHoJzxIdlG97lYhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916326149720-a86ie45icvv4nka46jqmkre3ecmtepmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
